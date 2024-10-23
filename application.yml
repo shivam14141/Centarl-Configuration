@@ -2,7 +2,7 @@
 eureka:
   instance:
     prefer-ip-address: true
-  client:
+  client:1
     fetch-registry: true
     register-with-eureka: true  
     service-url:
